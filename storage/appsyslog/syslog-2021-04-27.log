@@ -1,0 +1,2 @@
+[2021-04-27 11:17:35] local.INFO: #$#log#$# {"username":"admin","ip":"10.212.134.15","date":"2021-04-27 11:17:35","uri":"login","parameters":[],"route":null,"request":{"username":"admin"},"response_code":200,"methods":["POST"]} 
+[2021-04-27 11:34:00] local.INFO: #$#log#$# {"username":"admin","ip":"10.212.134.15","date":"2021-04-27 11:34:00","uri":"users","action":"users.index","parameters":[],"route":"users.index","methods":["GET","HEAD"],"request":[],"response_code":200,"data":[]} 
